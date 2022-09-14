@@ -8,7 +8,7 @@
 
 Tengo 24 años, vivo en Argentina, soy Desarrollador Web Fullstack orientado al Front-end. Con título en Gastronomía y tecnicatura en reparacion de PCs.
 
-Soy una persona con alto sentido de la responsabilidad, gran capacidad de resolución de problemas y muy comprometida. Tengo experiencias previas trabajando en grupo en el rubro gastronómico y me considero muy adaptable y con buena predisposición.
+Soy una persona con alto sentido de la responsabilidad, gran capacidad resolutiva y muy comprometida. Tengo experiencias previas trabajando en grupo en el rubro gastronómico y me considero muy adaptable y con buena predisposición.
 
 Si estas buscando expandir tu equipo. No dudes en contactarme!
 <br>
