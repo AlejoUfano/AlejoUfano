@@ -3,15 +3,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Tecnico+en+reparacion+de+Hardware+y+Software&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-## 👨🏻‍💻 Sobre mi
 
-Tengo 24 años, vivo en Argentina, soy Desarrollador Web Fullstack orientado al Front-end. Con título en Gastronomía y Alta Cocina y tecnicatura en reparacion de PCs.
+### 👨🏻‍💻 Sobre mi
+
+Tengo 24 años, vivo en Argentina, soy Desarrollador Web Fullstack orientado al Front-end. Con título en Gastronomía y tecnicatura en reparacion de PCs.
 
 Soy una persona con alto sentido de la responsabilidad, gran capacidad de resolución de problemas y muy comprometida. Tengo experiencias previas trabajando en grupo en el rubro gastronómico y me considero muy adaptable y con buena predisposición.
 
 Si estas buscando expandir tu equipo. No dudes en contactarme!
+<br>
 ✉️ ufanoalejo@gmail.com 
+<br>
 📲 https://wa.me/542914497480
+
+<br>
 
 ## 🛠️ Mis Habilidades
 
