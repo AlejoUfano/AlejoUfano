@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 Sobre mi
 
-Tengo 24 años, vivo en Argentina, soy Desarrollador Web Fullstack orientado al Front-end. Con título en Gastronomía y tecnicatura en reparacion de PCs.
+Tengo 25 años, vivo en Argentina, soy Desarrollador Web Fullstack orientado al Front-end. Con título en Gastronomía y tecnicatura en reparacion de PCs.
 
 Soy una persona con alto sentido de la responsabilidad, gran capacidad resolutiva y muy comprometida. Tengo experiencias previas trabajando en grupo y me considero muy adaptable y con buena predisposición.
 
