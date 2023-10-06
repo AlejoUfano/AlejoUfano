@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Alejo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, im Alejo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Tecnico+en+reparacion+de+Hardware+y+Software&center=true&width=500&height=50"></a>
 </p>
@@ -7,6 +7,7 @@
 ### 👨🏻‍💻 About Me
 My name is Alejo, im 25 yo, im from Argentina and i am a Front-End developer specialized in Javascript, React, React Native and its main related technologies.(Redux, React Router, Typescript, Tailwind, etc). I am a fast and constant learner, very committed and with a high sense of responsibility.
 My goal is to develop products that provide innovative solutions by satisfying the needs of those involved, working as a team and offering my passion and enthusiasm for what I do.
+<br>
 <br>
 ✉️ ufanoalejo@gmail.com 
 <br>
