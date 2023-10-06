@@ -5,17 +5,14 @@
 <hr/>
 
 ### 👨🏻‍💻 Sobre mi
-
-Tengo 25 años, vivo en Argentina, soy Desarrollador Web Fullstack orientado al Front-end. Con título en Gastronomía y tecnicatura en reparacion de PCs.
-
-Soy una persona con alto sentido de la responsabilidad, gran capacidad resolutiva y muy comprometida. Tengo experiencias previas trabajando en grupo y me considero muy adaptable y con buena predisposición.
+Mi nombre es Alejo, tengo 25 años, vivo en Argentina, soy desarrollador Full Stack orientado al Front-End especializado en React/React native y sus principales librerías relacionadas (Redux, React Router, Typescript, Tailwind, etc). 
+Soy una persona de aprendizaje rápido y constante, muy comprometida y con un alto sentido de la responsabilidad. Mi objetivo es desarrollar productos que brinden soluciones innovadoras satisfaciendo la necesidad de los involucrados, trabajando en equipo y ofreciendo mi pasión y entusiasmo por lo que hago.
 
 Si estas buscando expandir tu equipo. No dudes en contactarme!
 <br>
 ✉️ ufanoalejo@gmail.com 
 <br>
 📲 https://wa.me/542914497480
-
 <br>
 
 ## 🛠️ Mis Habilidades
