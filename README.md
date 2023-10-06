@@ -17,7 +17,7 @@ Si estas buscando expandir tu equipo. No dudes en contactarme!
 
 ## 🛠️ Mis Habilidades
 
-### 👉 Lenguajes de programacion
+### 👉 Languajes
 
 <p align="left">
   &emsp;
@@ -60,7 +60,7 @@ Si estas buscando expandir tu equipo. No dudes en contactarme!
   </a> 
 </p>
 
-### 👉 Bases de datos & Deploy
+### 👉 Data Bases & Deployment
 <p align="left">
   &emsp;
     <a href="#"><img alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
@@ -73,7 +73,7 @@ Si estas buscando expandir tu equipo. No dudes en contactarme!
  </p>
   
 
- ### 👉 Software & Herramientas
+ ### 👉 Software & Tools
  
 <p>
   &emsp;
@@ -89,7 +89,7 @@ Si estas buscando expandir tu equipo. No dudes en contactarme!
 
 <br/>
 
-## 📊 Mis estadisticas 
+## 📊 My Statistics
 
   <br/>
   <p align="center">
@@ -101,7 +101,7 @@ Si estas buscando expandir tu equipo. No dudes en contactarme!
 
 <br/>
 
-## 🙋‍♂️ Contacto
+## 🙋‍♂️ Contact
 <p align="center">
 	<a href="mailto:ufanoalejo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
