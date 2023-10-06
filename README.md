@@ -4,18 +4,16 @@
 </p>
 <hr/>
 
-### 👨🏻‍💻 Sobre mi
-Mi nombre es Alejo, tengo 25 años, vivo en Argentina, soy desarrollador Full Stack orientado al Front-End especializado en React/React native y sus principales librerías relacionadas (Redux, React Router, Typescript, Tailwind, etc). 
-Soy una persona de aprendizaje rápido y constante, muy comprometida y con un alto sentido de la responsabilidad. Mi objetivo es desarrollar productos que brinden soluciones innovadoras satisfaciendo la necesidad de los involucrados, trabajando en equipo y ofreciendo mi pasión y entusiasmo por lo que hago.
-
-Si estas buscando expandir tu equipo. No dudes en contactarme!
+### 👨🏻‍💻 About Me
+My name is Alejo, im 25 yo, im from Argentina and i am a Front-End developer specialized in Javascript, React, React Native and its main related technologies.(Redux, React Router, Typescript, Tailwind, etc). I am a fast and constant learner, very committed and with a high sense of responsibility.
+My goal is to develop products that provide innovative solutions by satisfying the needs of those involved, working as a team and offering my passion and enthusiasm for what I do.
 <br>
 ✉️ ufanoalejo@gmail.com 
 <br>
 📲 https://wa.me/542914497480
 <br>
 
-## 🛠️ Mis Habilidades
+## 🛠️ My Skills
 
 ### 👉 Languajes
 
