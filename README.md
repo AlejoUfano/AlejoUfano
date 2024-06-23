@@ -13,19 +13,6 @@ Worked in various cross-functional Agile teams and applied my Leadership skills 
 <br>
 📲 https://wa.me/542914497480
 <br>
-
-<br/>
-
-## 📊 My Statistics
-
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alejo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlejoUfano&show_icons=true&count_private=true&theme=algolia" height="150px"/></a>
-  &emsp;
-<!-- 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejoufano&show_icons=true&locale=en&layout=compact&theme=algolia" alt="alejoufano" height="150px"/> -->
-  </p>
-
-
 <br/>
 
 ## 🙋‍♂️ Contact
