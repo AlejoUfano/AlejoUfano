@@ -5,7 +5,7 @@
 <hr/>
 
 ### 👨🏻‍💻 About Me
-5 years of proficient experience in FRON-TEND DEVELOPMENT with Next.js, Nuxt.js, React, Vue, Angular, and React Native, and mainly focus on UI/UX and Web Performance. Honed skills in writing succinctly, producing clean and efficient code, and building intuitive products.
+5 years of proficient experience in FRONT-END DEVELOPMENT with Next.js, Nuxt.js, React, Vue, Angular, and React Native, and mainly focus on UI/UX and Web Performance. Honed skills in writing succinctly, producing clean and efficient code, and building intuitive products.
 Worked in various cross-functional Agile teams and applied my Leadership skills to lead a team. Highly self-motivated, and loves to keep up with the current trends in the IT world.
 <br>
 <br>
