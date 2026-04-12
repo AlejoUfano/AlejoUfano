@@ -5,8 +5,10 @@
 <hr/>
 
 ### 👨🏻‍💻 About Me
-5 years of proficient experience in FRONT-END DEVELOPMENT with Next.js, Nuxt.js, React, Vue, Angular, and React Native, and mainly focus on UI/UX and Web Performance. Honed skills in writing succinctly, producing clean and efficient code, and building intuitive products.
-Worked in various cross-functional Agile teams and applied my Leadership skills to lead a team. Highly self-motivated, and loves to keep up with the current trends in the IT world.
+Frontend Developer with 5+ years of experience building scalable web and mobile applications.
+Strong focus on **TypeScript, React, Next.js, and React Native**, with deep expertise in **UI/UX and performance optimization**. I care about clean architecture, maintainable code, and delivering high-quality user experiences.
+Experienced working in **cross-functional Agile teams**, leading initiatives, and driving projects from concept to production.
+Actively staying ahead of modern frontend trends, evolving best practices, and emerging AI-driven technologies.
 <br>
 <br>
 ✉️ ufanoalejo@gmail.com 
