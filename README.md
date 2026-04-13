@@ -5,7 +5,7 @@
 <hr/>
 
 ### 👨🏻‍💻 About Me
-Frontend Developer with 5+ years of experience building scalable web and mobile applications.
+Frontend Developer with 6+ years of experience building scalable web and mobile applications.
 Strong focus on **TypeScript, React, Next.js, and React Native**, with deep expertise in **UI/UX and performance optimization**. I care about clean architecture, maintainable code, and delivering high-quality user experiences.
 Experienced working in **cross-functional Agile teams**, leading initiatives, and driving projects from concept to production.
 Actively staying ahead of modern frontend trends, evolving best practices, and emerging AI-driven technologies.
